@@ -1,9 +1,10 @@
 # Node.js + Vue.js 开发王者荣耀手机端官网和管理后台
 
-## 一、 入门
-1. 项目介绍
-1. 工具安装和环境搭建(nodejs,npm,mongodb)
-1. 初始化项目
+## 一、 项目设置
+1. 环境搭建(nodejs,npm,mongodb)
+1. 项目启动
+2.npm init
+2.npm run serve
 
 ## 二、 管理后台
 1. 基于Element UI的后台管理基础界面搭建
