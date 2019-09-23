@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "737900",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "3265205",
+      "name": "头盔",
+      "font_class": "toukui",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "3312901",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "3698393",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e52b",
+      "unicode_decimal": 58667
+    },
+    {
+      "icon_id": "4105104",
+      "name": "vedio",
+      "font_class": "vedio",
+      "unicode": "e877",
+      "unicode_decimal": 59511
+    },
+    {
+      "icon_id": "8069240",
+      "name": "read",
+      "font_class": "read",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8392478",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "8838574",
+      "name": "vedio",
+      "font_class": "vedio1",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    }
+  ]
+}
