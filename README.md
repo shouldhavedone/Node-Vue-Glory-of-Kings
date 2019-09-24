@@ -3,7 +3,7 @@
 ## 一、 项目设置
 1. 环境搭建(nodejs,npm,mongodb)
 1. 项目启动
-2.npm init
+2.npm install
 2.npm run serve
 
 ## 二、 管理后台
